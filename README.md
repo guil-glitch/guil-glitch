@@ -1,16 +1,21 @@
-## Hi there 👋
+## Sobre mim
 
-<!--
-**guil-glitch/guil-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Guilherme Caldeira Miranda, atualmente sou graduando em Análise e Desenvolvimento de Sistemas no IFPA - Campus Paragominas, com técnico em Informática pela mesma instituição.
 
-Here are some ideas to get you started:
+## Habilidades e ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Algoritmo e Lógica de Programação
+- Sistemas Operacionais
+- Análise e Projeto de Sistemas
+- Estrutura de Dados
+- Redes de Computadores
+- Banco de Dados
+- Programação Web (HTML, CSS, PHP)
+
+## Projetos do curso
+
+Apesar de já ter feito alguns projetos independentes durante o ensino médio, eu não os salvei no GitHub. Mas agora darei mais atenção a isso e começarei a salvar os meus projetos do ensino superior.
+
+## Contato
+
+- Email: [gcaldeiramiranda@gmail.com](mailto:gcaldeiramiranda@gmail.com)
